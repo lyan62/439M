@@ -1,0 +1,21 @@
+﻿To run the code,
+1.go to location: "/wenyanli_P1/Code"
+
+2. choose dataset:
+
+Using dataset 1(DATA):
+in matlab command window, type >>> test_expression
+OR  
+>>>   test_illum
+OR
+>>>   test_neutral
+
+will give classification results using different training data.
+
+
+Using dataset2(POSE):
+in matalab command window, type >>> test_dataset2
+
+Using dataset3(ILLUMINATION):
+in matlab command window, type >>> test_dataset3
+
