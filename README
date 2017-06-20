@@ -1,5 +1,12 @@
-﻿To run the code,
-1.go to location: "/wenyanli_P1/Code"
+In this project, following classifers are implemented for face recognition
+1. MLE with Gaussian assumption followed by Bayes rule
+2. K-Nearest Neighbor(KNN) rule
+3. PCA followed by KNN and Bayes rule
+4. LDA followed by KNN and Bayes rule
+
+
+To run the code,
+1.go to location: "/wenyanli_P1/Code" 
 
 2. choose dataset:
 
